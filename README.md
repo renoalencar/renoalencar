@@ -5,9 +5,13 @@ Specialist in Ethical Hacking and Cybersecurity from the Centro de Inovação Vi
 - 👨‍💻 I'm looking to work with web/mobile projects.
 - ⚡ Fun fact: I love to play video games, but I don't play well 😅
 
+---
+
 ### Stats:
 
 ![Reno's GitHub stats](https://github-readme-stats.vercel.app/api?username=renoalencar&show_icons=true&theme=radical)
+
+---
 
 ### Languages:
 
