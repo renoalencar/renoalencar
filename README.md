@@ -13,6 +13,7 @@ Specialist in Ethical Hacking and Cybersecurity at Centro de Inovação VincIT -
 [<img align="left" alt="renoalencar | Instagram" width="96px" height="22px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/reno.c.alencar/)
 [<img align="left" alt="renoalencar | Twitter" width="96px" height="22px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/alencar_reno)
 <br />
+
 ---
 
 ### Stats:
