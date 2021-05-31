@@ -1,4 +1,4 @@
-# Hi, there I'm Reno Alencar 👋
+# Hi there 👋 , I'm Reno Alencar 
 ### Passionate about education and technology
 
 ### About me
