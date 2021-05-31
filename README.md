@@ -1,4 +1,10 @@
-## Hi, there I'm Reno - passionate about education and technology 👋
+# Hi, there I'm Reno Alencar 👋
+## A passionate about education and technology
+<p align="center">
+  [<img align="left" alt="renoalencar | LinkedIn" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renoalencar/)
+  [<img align="left" alt="renoalencar | Instagram" width="22px" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/reno.c.alencar/)
+  [<img align="left" alt="renoalencar | Twitter" width="22px" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/alencar_reno)
+</p>
 
 ### About me
 Specialist in Ethical Hacking and Cybersecurity at Centro de Inovação VincIT - UNICIV in partnership with Faculdade EFICAZ. Bachelor in Computer Science at Instituto Federal Sertão-PE. Former scholar at Institutional Program for Teaching Initiation Scholarship (BID) and former scholar at Support for the Dissemination of Knowledge CNPq. Worked as a professor at IF Sertão-PE Campus Petrolina from 2018 to 2020.
