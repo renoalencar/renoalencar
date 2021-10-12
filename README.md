@@ -1,4 +1,4 @@
-# Olá 👋 , Sou Reno Alencar 
+# Olá 👋 , sou Reno Alencar 
 ### Apaixonado por educação e tecnologia
 
 ### Sobre
@@ -8,7 +8,7 @@ Sou graduado em Licenciatura em Computação e especialista em Ethical Hacking e
 - 👨‍💻 Em busca de realocação no mercado como desenvolvedor.
 - 🎮 Amo jogar videogame, em especial jogos de RPG e táticos.
 
-### Contatos:
+### Redes:
 [<img align="left" alt="renoalencar | LinkedIn" width="96px" height="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renoalencar/)
 <br />
 
