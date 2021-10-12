@@ -8,18 +8,18 @@ Sou graduado em Licenciatura em Computação e especialista em Ethical Hacking e
 - 👨‍💻 Em busca de realocação no mercado como desenvolvedor.
 - 🎮 Amo jogar videogame, em especial jogos de RPG e táticos.
 
-### Connect with me:
+### Contatos:
 [<img align="left" alt="renoalencar | LinkedIn" width="96px" height="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renoalencar/)
 <br />
 
 ---
 
-### Stats:
+### Estatísticas:
 
 ![Reno's GitHub stats](https://github-readme-stats.vercel.app/api?username=renoalencar&show_icons=true&theme=radical)
 
 ---
 
-### Languages:
+### Linguagens:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renoalencar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
