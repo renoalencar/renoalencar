@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Reno Alencar 
+# Olá 👋 , Sou Reno Alencar 
 ### Apaixonado por educação e tecnologia
 
 ### Sobre
