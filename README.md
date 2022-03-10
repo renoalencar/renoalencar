@@ -4,7 +4,7 @@
 ### Sobre
 Sou graduado em Licenciatura em Computação e especialista em Ethical Hacking e Cybersecurity. Atuei como professor, do ensino técnico e tecnológico, no IFSertãoPE de 2018 a 2020.
 
-- 📚 Atualmente estudando .NET;
+- 📚 Estudando Java e JavaScript.
 - 👨‍💻 Em busca de realocação no mercado como desenvolvedor.
 - 🎮 Amo jogar videogame, em especial jogos de RPG e táticos.
 
