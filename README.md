@@ -2,8 +2,8 @@
 - 👀 Interests: data science, machine learning, cybersecurity, IP networking, teaching Python.
 - 🌱 Currently creating ML and data analytics classes.
 - 💞️ Open to collaborate on ML for security, data apps (Dash/Plotly), and network automation labs.
-- 📫 How to reach me: [linkedin.com/in/SEU-LINKEDIN](https://linkedin.com/in/renoalencar/))
-- 🔗 Lattes: [lattes.cnpq.br/SEU-LATTES](https://lattes.cnpq.br/6651087154533172)
+- 📫 How to reach me: [linkedin.com/in/renoalencar](https://linkedin.com/in/renoalencar/)
+- 🔗 Lattes: [lattes.cnpq.br/6651087154533172](https://lattes.cnpq.br/6651087154533172)
 - 🌎 Languages: PT-BR (native), EN (intermediate), ES (basic).
 - ⚡ Fun fact: I’ve taught from high school to graduate programs and love turning lab issues into class projects.
 
