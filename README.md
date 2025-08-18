@@ -9,7 +9,7 @@
 
 ---
 
-- 👋 **Olá, eu sou Reno Alencar**
+- 👋 **Olá, sou Reno Alencar**
 - 👀 Interesses: ciência de dados, ML, segurança cibernética, redes IP e ensino de Python.
 - 🌱 Atualmente, desenvolvo aulas de ML e análise de dados.
 - 💞️ Busco colaborar em ML para segurança, data apps (Dash/Plotly) e laboratórios de automação de redes.
