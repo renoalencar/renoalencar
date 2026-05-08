@@ -43,12 +43,3 @@ Atualmente, meu foco está em unir a robustez do **Python** e **PHP** com interf
     <img src="https://img.shields.io/badge/Currículo_Lattes-004488?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </div>
-
----
-
-### 📈 Um pouco do meu barulho no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renoalencar&show_icons=true&theme=nord&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoalencar&layout=compact&langs_count=7&theme=nord" />
-</div>
