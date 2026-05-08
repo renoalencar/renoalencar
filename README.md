@@ -1,13 +1,14 @@
 # 🚀 Oi, eu sou o Reno! 
-**Educador de profissão, SysAdmin de coração e Padawan em Java/Fullstack.**
+**Educador de profissão, SysAdmin de coração e Engenheiro de Software em construção.**
 
 Dizem que quem ensina, aprende duas vezes. No meu caso, eu aprendo, quebro o laboratório, conserto e depois transformo tudo isso em aula. Sou apaixonado por entender o que acontece "debaixo do capô", seja em uma rede IP complexa ou em um script de automação.
 
 ### 🛠️ O que tem na minha bancada hoje?
 
-Atualmente, meu foco está em unir a robustez do **Java + Spring Boot** com a agilidade do **Angular**. Mas, como um bom curioso da área de infra, não consigo ficar longe do **Linux**, **Docker** e das magias do **DevOps**.
+Atualmente, meu foco está em unir a robustez do **Python** e **PHP** com interfaces modernas em **React/Angular**. Mas, como um bom curioso da área de infra, não consigo ficar longe do **Linux**, **Docker** e das magias do **DevOps**.
 
-* ☕ **Em treinamento:** Construindo aplicações Fullstack (Java/Angular) e tentando não esquecer nenhum `;`.
+* 🐍 **Python:** Automação, segurança e backend escalável.
+* 🐘 **PHP:** Desenvolvimento de APIs e sistemas web funcionais e seguros.
 * 🐧 **Infra & DevOps:** Sysadmin nas horas vagas. Se tem um servidor precisando de carinho ou um pipeline de CI/CD para montar, eu me divirto.
 * 💞️ **Colaboração:** Aberto para projetos em **ML para Segurança**, aplicações de dados e laboratórios de **automação de redes**.
 
@@ -17,8 +18,8 @@ Atualmente, meu foco está em unir a robustez do **Java + Spring Boot** com a ag
 
 | Categoria | O que estou aprontando... |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot (Rest API, Data, Security). |
-| **Frontend** | Angular (Web Apps que não são apenas "bonitinhas", mas funcionais). |
+| **Backend** | Python (FastAPI/Flask) e PHP (Laravel). |
+| **Frontend** | Angular e React (Interfaces focadas em UX e performance). |
 | **Security** | Hacking ético, análise de vulnerabilidades e defesa cibernética. |
 | **Infra** | Redes IP, Automação, Linux e Containers. |
 
