@@ -1,34 +1,33 @@
-# 🚀 Oi, eu sou o Reno! 
-**Educador de profissão, SysAdmin de coração e Engenheiro de Software em construção.**
+# 🚀 E aí, eu sou o Reno!
 
-Dizem que quem ensina, aprende duas vezes. No meu caso, eu aprendo, quebro o laboratório, conserto e depois transformo tudo isso em aula. Sou apaixonado por entender o que acontece "debaixo do capô", seja em uma rede IP complexa ou em um script de automação.
+**Educador de profissão e SysAdmin de coração.**
+
+Dizem que quem ensina aprende duas vezes. No meu caso, eu aprendo, quebro o laboratório todo, conserto (geralmente sob pressão) e depois transformo o caos em aula. Sou fascinado pelo que acontece "debaixo do capô", seja desvendando pacotes em uma rede IP ou automatizando tarefas que eu levaria 5 minutos para fazer, mas gastei 5 horas programando. 😅
+
+---
 
 ### 🛠️ O que tem na minha bancada hoje?
 
-Atualmente, meu foco está em unir a robustez do **Python** e **PHP** com interfaces modernas em **React/Angular**. Mas, como um bom curioso da área de infra, não consigo ficar longe do **Linux**, **Docker** e das magias do **DevOps**.
-
-* 🐍 **Python:** Automação, segurança e backend escalável.
-* 🐘 **PHP:** Desenvolvimento de APIs e sistemas web funcionais e seguros.
-* 🐧 **Infra & DevOps:** Sysadmin nas horas vagas. Se tem um servidor precisando de carinho ou um pipeline de CI/CD para montar, eu me divirto.
-* 💞️ **Colaboração:** Aberto para projetos em **ML para Segurança**, aplicações de dados e laboratórios de **automação de redes**.
+* 🐍 **Python:** Do "Hello World" a automações e segurança.
+* 🐧 **Infra & DevOps:** Trato servidores como se fossem filhos. Se tem um pipeline de CI/CD travado ou um container rebelde, eu me divirto.
+* 🧠 **ML & Security:** Atualmente explorando como Machine Learning pode ser o melhor amigo da Defesa Cibernética.
 
 ---
 
-### 📚 Minhas Trilhas
+### 📚 No que estou mexendo ultimamente...
 
-| Categoria | O que estou aprontando... |
-| :--- | :--- |
-| **Backend** | Python (FastAPI/Flask) e PHP (Laravel). |
-| **Frontend** | Angular e React (Interfaces focadas em UX e performance). |
-| **Security** | Hacking ético, análise de vulnerabilidades e defesa cibernética. |
-| **Infra** | Redes IP, Automação, Linux e Containers. |
+| Ocupação | O que estou aprontando... |
+| --- | --- |
+| **Machine Learning** | Ensinando máquinas a detectar o que o olho humano deixa passar. |
+| **Security** | Hacking ético e defesa: Entendendo como quebra para construir melhor. |
+| **Infra** | Redes IP e Automação (porque ninguém merece configurar Switch na mão). |
 
 ---
 
-### ⚡ Fatos Curiosos (ou quase isso)
+### ⚡ Curiosidades (ou o que não está no Currículo)
 
 * **Lente Pedagógica:** Já dei aula para todo tipo de turma, do ensino médio à pós. Minha diversão é pegar um problema real e falar: "E aí, como a gente resolve isso?".
-* **Segurança:** Gosto de entender como as coisas quebram para aprender a construí-las melhor. 
+* **Debug Mental:** Minha diversão é entender por que o sistema disse "não" quando eu disse "vai".
 * **Idiomas:** Falo **Português** (nativo), me viro bem no **Inglês** (B2) e arranho um **Espanhol** quando a situação pede.
 
 ---
